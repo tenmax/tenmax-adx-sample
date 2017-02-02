@@ -1,0 +1,68 @@
+{
+  "badv": [], 
+  "cur": [
+    "USD"
+  ], 
+  "wseat": [], 
+  "site": {
+    "publisher": {
+      "domain": "tenmax.io", 
+      "id": "57f5a2fd70", 
+      "name": "TenMax Demo", 
+      "cat": [
+        "IAB15"
+      ]
+    }, 
+    "domain": "tenmax.io", 
+    "name": "[TenMax Demo][\u5ee3\u544a\u6e2c\u8a66\u9801] SSP Test Page Native Ad", 
+    "mobile": 1, 
+    "cat": [
+      "IAB15"
+    ], 
+    "content": {
+      "cat": []
+    }, 
+    "ext": {
+      "viewRate": 0
+    }, 
+    "pagecat": [], 
+    "sectioncat": [], 
+    "id": "a3d84380eed64e79", 
+    "page": "https://beta-ssp.tenmax.io/supply/js/demo/native/all.html"
+  }, 
+  "imp": [
+    {
+      "secure": 1, 
+      "instl": 0, 
+      "native": {
+        "battr": [], 
+        "api": [], 
+        "request": "{\"native\":{\"assets\":[{\"id\":1,\"required\":0,\"title\":{\"len\":25}},{\"id\":2,\"required\":0,\"img\":{\"type\":1,\"wmin\":250,\"hmin\":250,\"mimes\":[\"image/png\",\"image/jpg\",\"image/gif\"]}},{\"id\":3,\"required\":1,\"img\":{\"type\":3,\"wmin\":300,\"hmin\":156,\"mimes\":[\"image/png\",\"image/jpg\",\"image/gif\"]}},{\"id\":4,\"required\":0,\"data\":{\"type\":2,\"len\":90}},{\"id\":5,\"required\":0,\"data\":{\"type\":1,\"len\":25}},{\"id\":6,\"required\":0,\"img\":{\"type\":500,\"wmin\":1200,\"hmin\":627,\"mimes\":[\"image/png\",\"image/jpg\",\"image/gif\"]}},{\"id\":7,\"required\":0,\"img\":{\"type\":501,\"wmin\":150,\"hmin\":78,\"mimes\":[\"image/png\",\"image/jpg\",\"image/gif\"]}},{\"id\":8,\"required\":0,\"img\":{\"type\":502,\"wmin\":627,\"hmin\":627,\"mimes\":[\"image/png\",\"image/jpg\",\"image/gif\"]}},{\"id\":9,\"required\":0,\"img\":{\"type\":503,\"wmin\":80,\"hmin\":80,\"mimes\":[\"image/png\",\"image/jpg\",\"image/gif\"]}}],\"ext\":{\"isCrop\":false}}}"
+      }, 
+      "id": "0", 
+      "bidfloor": 0.005, 
+      "iframebuster": []
+    }
+  ], 
+  "ext": {}, 
+  "user": {
+    "data": [], 
+    "id": "398e6b80-7fb2-11e6-a4a9-11e36c007b7e"
+  }, 
+  "device": {
+    "os": "OS X", 
+    "language": "zh", 
+    "ip": "211.21.158.222", 
+    "js": 1, 
+    "geo": {
+      "country": "TWN", 
+      "type": 2
+    }, 
+    "dnt": 1, 
+    "devicetype": 2, 
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:51.0) Gecko/20100101 Firefox/51.0"
+  }, 
+  "bcat": [], 
+  "id": "9afd37d0-e915-11e6-8682-25683d79e1b7", 
+  "at": 2
+}

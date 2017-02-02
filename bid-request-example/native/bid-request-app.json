@@ -1,0 +1,66 @@
+{
+  "badv": [], 
+  "cur": [
+    "USD"
+  ], 
+  "app": {
+    "publisher": {
+      "domain": "https://palplus.me/space/tw/", 
+      "cat": [
+        "IAB14"
+      ], 
+      "id": "58f8225958", 
+      "name": "Pal+"
+    }, 
+    "domain": "https://palplus.me/space/tw/", 
+    "name": "[Pal+][Pal+][mob][\u65b9\u5716][\u5217\u8868\u9801][\u7b2c1\u5c4f][\u6211\u7684\u6536\u85cf-\u7b2c\u4e00\u5247-iOS\u6e2c\u8a66\u7248]", 
+    "cat": [
+      "IAB14"
+    ], 
+    "content": {
+      "cat": []
+    }, 
+    "ext": {
+      "viewRate": 0
+    }, 
+    "pagecat": [], 
+    "sectioncat": [], 
+    "id": "55ba76bca772421f"
+  }, 
+  "wseat": [], 
+  "imp": [
+    {
+      "secure": 1, 
+      "instl": 0, 
+      "native": {
+        "battr": [], 
+        "api": [], 
+        "request": "{\"native\":{\"assets\":[{\"id\":1,\"required\":0,\"title\":{\"len\":25}},{\"id\":2,\"required\":0,\"img\":{\"type\":1,\"wmin\":250,\"hmin\":250,\"mimes\":[\"image/png\",\"image/jpg\",\"image/gif\"]}},{\"id\":3,\"required\":0,\"img\":{\"type\":3,\"wmin\":300,\"hmin\":156,\"mimes\":[\"image/png\",\"image/jpg\",\"image/gif\"]}},{\"id\":4,\"required\":0,\"data\":{\"type\":2,\"len\":90}},{\"id\":5,\"required\":0,\"data\":{\"type\":1,\"len\":25}},{\"id\":6,\"required\":0,\"img\":{\"type\":500,\"wmin\":1200,\"hmin\":627,\"mimes\":[\"image/png\",\"image/jpg\",\"image/gif\"]}},{\"id\":7,\"required\":0,\"img\":{\"type\":501,\"wmin\":150,\"hmin\":78,\"mimes\":[\"image/png\",\"image/jpg\",\"image/gif\"]}},{\"id\":8,\"required\":0,\"img\":{\"type\":502,\"wmin\":627,\"hmin\":627,\"mimes\":[\"image/png\",\"image/jpg\",\"image/gif\"]}},{\"id\":9,\"required\":0,\"img\":{\"type\":503,\"wmin\":80,\"hmin\":80,\"mimes\":[\"image/png\",\"image/jpg\",\"image/gif\"]}}],\"ext\":{\"isCrop\":false}}}"
+      }, 
+      "id": "0", 
+      "bidfloor": 0.0, 
+      "iframebuster": []
+    }
+  ], 
+  "ext": {}, 
+  "at": 2, 
+  "device": {
+    "os": "Unknown", 
+    "language": "en", 
+    "ip": "140.123.101.180", 
+    "js": 1, 
+    "dnt": 0, 
+    "ua": "Java/1.8.0_121", 
+    "devicetype": 2, 
+    "geo": {
+      "country": "TWN", 
+      "type": 2
+    }
+  }, 
+  "bcat": [], 
+  "id": "d1d6fa80-e919-11e6-8682-25683d79e1b7", 
+  "user": {
+    "data": [], 
+    "id": "bd4b9b7903cf40ce"
+  }
+}

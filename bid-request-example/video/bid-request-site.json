@@ -1,0 +1,90 @@
+{
+  "badv": [], 
+  "cur": [
+    "USD"
+  ], 
+  "site": {
+    "publisher": {
+      "domain": "tenmax.io", 
+      "cat": [
+        "IAB15"
+      ], 
+      "id": "57f5a2fd70", 
+      "name": "TenMax Demo"
+    }, 
+    "domain": "tenmax.io", 
+    "name": "[TenMax Demo]\u4e0a\u520a\u5716\u7528", 
+    "mobile": 1, 
+    "cat": [
+      "IAB18"
+    ], 
+    "content": {
+      "cat": []
+    }, 
+    "ext": {
+      "viewRate": 0
+    }, 
+    "pagecat": [], 
+    "sectioncat": [], 
+    "id": "3b7e8b888f0140a9"
+  }, 
+  "wseat": [], 
+  "imp": [
+    {
+      "secure": 1, 
+      "displaymanager": "Direct SDK", 
+      "video": {
+        "ext": {
+          "skip": 1, 
+          "nonskip": 1
+        }, 
+        "playbackmethod": [], 
+        "mimes": [
+          "video/mp4"
+        ], 
+        "sequence": 1, 
+        "api": [], 
+        "linearity": 1, 
+        "pos": 1, 
+        "delivery": [
+          2
+        ], 
+        "battr": [], 
+        "startdelay": 0, 
+        "companionad": [], 
+        "minduration": 0, 
+        "companiontype": [], 
+        "maxduration": 60, 
+        "protocols": [
+          2, 
+          3
+        ]
+      }, 
+      "instl": 0, 
+      "iframebuster": [], 
+      "id": "0", 
+      "bidfloor": 0.0
+    }
+  ], 
+  "ext": {}, 
+  "user": {
+    "data": [], 
+    "id": "398e6b80-7fb2-11e6-a4a9-11e36c007b7e"
+  }, 
+  "device": {
+    "os": "OS X", 
+    "language": "zh", 
+    "ip": "211.21.157.223", 
+    "js": 1, 
+    "dnt": 1, 
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:51.0) Gecko/20100101 Firefox/51.0", 
+    "devicetype": 2, 
+    "geo": {
+      "country": "TWN", 
+      "type": 2
+    }
+  }, 
+  "bcat": [], 
+  "id": "b68e7630-e91a-11e6-8682-25683d79e1b7", 
+  "at": 2
+}

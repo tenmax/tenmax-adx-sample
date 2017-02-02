@@ -1,0 +1,26 @@
+{
+  "id": "e1356db0-e91c-11e6-8d3b-5b27c03d9f88", 
+  "seatbid": [
+    {
+      "bid": [
+        {
+          "attr": [], 
+          "cid": "1234", 
+          "crid": "5678", 
+          "price": 0.05, 
+          "ext": {}, 
+          "adid": "1234-5678", 
+          "adomain": [
+            "tenmax.io"
+          ], 
+          "adm": "{\"native\":{\"assets\":[{\"id\":1,\"title\":{\"text\":\"test\"}},{\"id\":2,\"img\":{\"url\":\"//www.tenmax.io/wp-content/uploads/2016/09/LOGO-TenMax3.png\",\"w\":250,\"h\":250}},{\"id\":3,\"img\":{\"url\":\"//www.tenmax.io/wp-content/uploads/2016/09/LOGO-TenMax3.png\",\"w\":574,\"h\":300}},{\"id\":4,\"data\":{\"value\":\"test\"}},{\"id\":5,\"data\":{\"value\":\"Tenmax\"},\"link\":{\"url\":\"http://www.tenmax.io\",\"clicktrackers\":[]}},{\"id\":6,\"img\":{\"url\":\"//www.tenmax.io/wp-content/uploads/2016/09/LOGO-TenMax3.png\",\"w\":1200,\"h\":627}},{\"id\":7,\"img\":{\"url\":\"//www.tenmax.io/wp-content/uploads/2016/09/LOGO-TenMax3.png\",\"w\":287,\"h\":150}},{\"id\":8,\"img\":{\"url\":\"//www.tenmax.io/wp-content/uploads/2016/09/LOGO-TenMax3.png\",\"w\":627,\"h\":627}},{\"id\":9,\"img\":{\"url\":\"//www.tenmax.io/wp-content/uploads/2016/09/LOGO-TenMax3.png\",\"w\":80,\"h\":80}}],\"link\":{\"url\":\"http://${SSP_CLICK_EVENT_URL}http%3A%2F%2Fwww.tenmax.io\",\"clicktrackers\":[]},\"imptrackers\":[\"//www.tenmax.io/${WINNING_PRICE}/\"],\"ext\":{\"viewtrackers\":[\"//www.tenmax.io\"]\"}}}", 
+          "impid": "0", 
+          "id": "e1356db0-e91c-11e6-8d3b-5b27c03d9f88", 
+          "nurl": ""
+        }
+      ]
+    }
+  ], 
+  "cur": "USD", 
+  "bidid": "e1356db0-e91c-11e6-8d3b-5b27c03d9f88"
+}

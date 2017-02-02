@@ -1,0 +1,80 @@
+{
+  "badv": [], 
+  "cur": [
+    "USD"
+  ], 
+  "site": {
+    "publisher": {
+      "domain": "tenmax.io", 
+      "cat": [
+        "IAB15"
+      ], 
+      "id": "57f5a2fd70", 
+      "name": "TenMax Demo"
+    }, 
+    "domain": "tenmax.io", 
+    "name": "[TenMax Demo][TenmaxDemo] SSP Test Page in Iframe", 
+    "mobile": 0, 
+    "cat": [
+      "IAB15"
+    ], 
+    "content": {
+      "cat": []
+    }, 
+    "ext": {
+      "viewRate": 0
+    }, 
+    "pagecat": [], 
+    "sectioncat": [], 
+    "id": "5c5ca65a9f9d448a", 
+    "page": "https://beta-ssp.tenmax.io/supply/js/demo/banner/iframe.html"
+  }, 
+  "wseat": [], 
+  "imp": [
+    {
+      "secure": 1, 
+      "instl": 0, 
+      "banner": {
+        "mimes": [
+          "image/gif", 
+          "image/png", 
+          "image/jpeg", 
+          "application/x-shockwave-flash", 
+          "text/html"
+        ], 
+        "h": 50, 
+        "pos": 0, 
+        "battr": [], 
+        "api": [], 
+        "w": 320, 
+        "btype": [], 
+        "expdir": [], 
+        "id": "1"
+      }, 
+      "id": "0", 
+      "bidfloor": 0.8695, 
+      "iframebuster": []
+    }
+  ], 
+  "ext": {}, 
+  "user": {
+    "data": [], 
+    "id": "398e6b80-7fb2-11e6-a4a9-11e36c007b7e"
+  }, 
+  "device": {
+    "os": "OS X", 
+    "language": "zh", 
+    "ip": "211.21.157.223", 
+    "js": 1, 
+    "dnt": 1, 
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:51.0) Gecko/20100101 Firefox/51.0", 
+    "devicetype": 2, 
+    "geo": {
+      "country": "TWN", 
+      "type": 2
+    }
+  }, 
+  "bcat": [], 
+  "id": "6131bd50-e91a-11e6-8682-25683d79e1b7", 
+  "at": 2
+}
